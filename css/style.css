@@ -1,0 +1,36 @@
+/* CSS Document */
+/* Login  */
+#loginFrm{
+	margin-top: 100px;
+	width: 470px;
+	height: 375px;
+	border: 6.5px double black;
+	background-color: #BBB7B7;
+}
+#loginUser, #loginPasswd,#userName,#firstName,#lastName,
+ #password,#emailAddress{
+	width: 370px;
+	background-color: beige;
+}
+
+.btn{
+	margin-bottom: 5px;
+}
+#regLink{
+	font-weight:600;
+}
+/* Registration */
+#registerFrm{
+	margin-top: 100px;
+	width: 550px;
+	height: 650px;
+	border: 6.5px double black;
+	background-color: #BBB7B7;
+}
+#phoneNo{
+	width: 220px;
+	background-color: beige;
+}
+#regBtn{
+	margin-top: 18px;
+}
